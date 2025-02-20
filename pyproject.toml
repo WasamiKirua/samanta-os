@@ -1,0 +1,16 @@
+[project]
+name = "samantha-os"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115.8",
+    "memobase>=0.0.8",
+    "openai>=1.63.2",
+    "pyannote-audio>=3.3.2",
+    "python-dotenv>=1.0.1",
+    "python-multipart>=0.0.20",
+    "uvicorn>=0.34.0",
+    "whisperx>=3.3.1",
+]
