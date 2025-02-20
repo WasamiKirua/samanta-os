@@ -31,8 +31,7 @@ Coming Soon:
 ## 🚀 Quick Start
 
 ### Prerequisites
-
-- Python 3.12+
+- Python 3.11+
 - Node.js
 - Docker and Docker Compose (for Memobase)
 - FFmpeg (for audio processing)
