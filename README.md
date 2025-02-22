@@ -19,14 +19,7 @@ A kawaii-style AI assistant web application featuring voice interaction, real-ti
 - 💭 LLM integration with Ollama
 
 Coming Soon:
-- ⚡ Real-time interruption system
 - TTS optimization for Macos [lightning-whisper-mlx](https://github.com/mustafaaljadery/lightning-whisper-mlx?tab=readme-ov-file#lightning-whisper-mlx)
-- Movie and TV show recommendations
-- News and updates
-- Weather forecast
-- Song and music recommendations
-- Web search
-- Image generation (API Paywall)
 
 ## 🚀 Quick Start
 
